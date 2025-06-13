@@ -1,0 +1,7 @@
+python-binance
+python-dotenv
+requests
+pandas
+ta
+scikit-learn
+joblib
