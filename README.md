@@ -4,7 +4,7 @@ Bot de trading automático en tiempo real para Bitcoin (BTC/USDT), conectado a B
 
 ---
 
-## 🔧 Tecnologías usadas
+##Tecnologías usadas
 
 - Python
 - Binance API
@@ -17,7 +17,7 @@ Bot de trading automático en tiempo real para Bitcoin (BTC/USDT), conectado a B
 
 ---
 
-## 🚀 Funcionalidades
+##Funcionalidades
 
 - Descarga datos OHLC cada minuto de Binance
 - Calcula indicadores técnicos: RSI, SMA, MACD, Bollinger Bands, ATR
